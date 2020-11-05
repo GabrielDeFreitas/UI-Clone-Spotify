@@ -8,5 +8,3 @@
 ## 💻 UI Clone - Spotify (Homepage)
 
 UI clone for study purposes.
-
----
